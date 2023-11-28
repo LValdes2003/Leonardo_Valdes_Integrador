@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Leonardo_Valdes_Integrador",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Leonardo_Valdes_Integrador::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Leonardo_Valdes_Integrador-Debug-e9af5f9393e24ec04431.json",
+					"name" : "Leonardo_Valdes_Integrador",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/scrambledmacbook/Documents/GitHub/Leonardo_Valdes_Integrador/cmake-build-debug",
+		"source" : "/Users/scrambledmacbook/Documents/GitHub/Leonardo_Valdes_Integrador"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
