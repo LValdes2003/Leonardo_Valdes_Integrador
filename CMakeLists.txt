@@ -6,8 +6,6 @@ set(LIBRARY_DIR /Users/scrambledmacbook/Downloads/json-develop)
 
 include_directories(${LIBRARY_DIR}/include)
 
-target_link_libraries(Leonardo_Valdes_Integrador ${LIBRARY_DIR}/lib/libjsoncpp.dylib)
-
 add_executable(Leonardo_Valdes_Integrador
         main.cpp
         Variant.h

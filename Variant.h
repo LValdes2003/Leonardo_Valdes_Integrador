@@ -7,6 +7,7 @@
 
 #include <string>
 #include <nlohmann/json.hpp>
+using namespace nlohmann;
 
 class Variant {
 public:
